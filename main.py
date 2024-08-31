@@ -1,4 +1,6 @@
 import random
 
 print("The number is ", end="")
-print(random.choice(list(range(10))))
+
+while (1 != 0):
+    print(random.choice(list(range(10))), end=" ")
